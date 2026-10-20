@@ -7,7 +7,7 @@ permalink: /terms/
 
 _Last updated: 2026-10-16_
 
-These terms apply to the DualSub for All browser extension (the "Extension") and the optional DualSub Pro subscription (together, the "Service"), provided by Le Hong Phi ("we", "us"). By installing the Extension or buying Pro, you agree to these terms.
+These terms apply to the DualSub for All browser extension (the "Extension") and the optional DualSub Pro subscription (together, the "Service"), provided by the DualSub for All team ("DualSub", "we", "us"). By installing the Extension or buying Pro, you agree to these terms.
 
 ## 1. The Service
 
